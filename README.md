@@ -25,7 +25,7 @@ This is my redrawn design.
 
 Now that I had a solid idea that I was happy with and passionate about, I got to work on the project. However, most of my time was spend trying to decide on the design, so I would be able to decide which images I needed. My current file, which is clearly far from complete, is the my current attempt at creating the shape and idea of the hole that goes falls towards the void. I wanted to show roots hanging off from the trees, but did not get a file that was very compatible for the forest one I chose. My next step will be making the background as cohesive as possible, so when I add in the subjects, the background won't be distracting from the message.
 
-Here's a screenshot of <a href = "https://github.com/mschnelk/visual-argument-2025spring/blob/main/stay_grounded.xcf">my current GIMP file</a> <i>(update: having issues with uploading my GIMP file, but I will get this working ASAP)</i>, and the .jpg can be found <a href = "https://github.com/mschnelk/visual-argument-2025spring/blob/main/stay_grounded.jpg">here</a>.
+Here's a screenshot of <a href = "https://github.com/mschnelk/visual-argument-2025spring/blob/main/stay_grounded.xcf">my current GIMP file</a>, and the .jpg can be found <a href = "https://github.com/mschnelk/visual-argument-2025spring/blob/main/stay_grounded.jpg">here</a>.
 
 ![Screenshot 2025-02-19 113407](https://github.com/user-attachments/assets/92caa911-af97-474e-a418-96d638fed5dd)
 
