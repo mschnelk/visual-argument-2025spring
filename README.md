@@ -4,6 +4,21 @@
 
 <h3> Project Updates </h3>
 
+<i> Feb 24, 2025 </i>
+Since the last update, I decided to switch to Photoshop. I've used it a few times for minor things, so I thought using a more familiar interface would be helper. Additionally, it's really easy to find engaging and helpful tutorials for just about anything in Photoshop. Anyway, today I have a very rough draft of my final project completed.
+
+The first thing I worked on was the background. Originally, I wanted to combine a different two photos to make the background and the forest opening effect, however, I found this really difficult. So, I switched to just having one photo as the background, and instead editing the top with a layer mask to make it appear warmer than the part below. This was somewhat difficult becuase the longer I worked on it, the less I became aware of how weird or unnatural it looked. So, I had to work on it a little bit and then hide the edits for a bit, then switch back to make sure it didn't look too strange. I'm still not totally happy with how it looks, but I eventually had to move on. After trying to make the top brighter, I worked on the bottom and made it gradient into dark. This was much easier than the earlier effects. 
+
+Then, I started on the man. This was rough because the colors from the photo I chose were so different from the background. I had to experiment with a ton of different adjustment layers. Again, not happy with this, and I think I might try generative fill to have AI create someone for me, instead.
+
+Finally, I worked on the crowd. I tried doing a crowd from a concert with flashlights up, to mimic phone screens, but this didn't look exactly as a I wanted. Instead, I switched to a photo of people simple holding their hands up. I think this looks okay, but I think I'm going to experiment more with the flashlights later. 
+
+For the phones, I found a few good photos, and just got rid of the text inside. I would like to work more on the lighting of this and maybe have the hands gradient into black instead of coming off the screen. I also originally wanted everything to come off as a notification instead of on the screen, so I might try to do that as well. Because of this, and also because I was getting annoyed, I only did two of the phone screens. So, of course, that will need to be fixed. 
+
+Overall, I'm glad I was able to get the basic premise done. There are obviously some things I want to change, however, I think one of the biggest things I thing should change is the balance of the photo. Right now, below the trees is much smaller than above. This was mainly due to the photo I chose. However, I think I could use generative AI to extend the trees and focus more on the nature aspect of being the light vs the cave of phones in the dark. This would also solve some other issues I was having with the phones and hands placement, so I think this is the first thing I will work on next time.
+
+In the meantime, my photoshop file can be found <a href = "https://github.com/mschnelk/visual-argument-2025spring/blob/main/stay_grounded.psd">here</a>, and my jpg can be found <a href = "https://github.com/mschnelk/visual-argument-2025spring/blob/main/stay_grounded.jpg">here</a>. Additionally, a list of my assets and sources can be found <a href = "https://github.com/mschnelk/visual-argument-2025spring/blob/main/CREDITS.md">here</a>.
+
 <i> Feb 19, 2025 </i>
 
 I decided on a completely different message that I want to portray. I switched away from reading, and instead want to focus on the importance of
