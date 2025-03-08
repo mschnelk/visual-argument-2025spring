@@ -5,6 +5,7 @@
 <h3> Project Updates </h3>
 
 <i> Feb 24, 2025 </i>
+
 Since the last update, I decided to switch to Photoshop. I've used it a few times for minor things, so I thought using a more familiar interface would be helper. Additionally, it's really easy to find engaging and helpful tutorials for just about anything in Photoshop. Anyway, today I have a very rough draft of my final project completed.
 
 The first thing I worked on was the background. Originally, I wanted to combine a different two photos to make the background and the forest opening effect, however, I found this really difficult. So, I switched to just having one photo as the background, and instead editing the top with a layer mask to make it appear warmer than the part below. This was somewhat difficult becuase the longer I worked on it, the less I became aware of how weird or unnatural it looked. So, I had to work on it a little bit and then hide the edits for a bit, then switch back to make sure it didn't look too strange. I'm still not totally happy with how it looks, but I eventually had to move on. After trying to make the top brighter, I worked on the bottom and made it gradient into dark. This was much easier than the earlier effects. 
